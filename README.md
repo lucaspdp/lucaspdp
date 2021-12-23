@@ -9,3 +9,7 @@ Algumas ideias para se comunicarem comigo!
 - ⚡ Fato engraçado sobre mim: Toda vez que eu termino um projeto, tenho a mania de comemorar, as vezes me levo para jantar fora, isso é muito prazeroso!
 
 ### Vamos iniciar um projeto juntos? 😁😊
+
+<a href="https://github.com/lucaspdp">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdp&custom_title=Most%20Used%20Languages&hide_title=false&border_radius=20&layout=compact&show_icons=true&theme=chartreuse-dark" alt="Lucas Language Stats" />
+</a>
